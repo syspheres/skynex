@@ -1,0 +1,1 @@
+skynex/com/controller contains common all controller program for echange common application and common data skynex

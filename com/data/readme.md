@@ -1,0 +1,1 @@
+skynex/com/data : contains all data file common for all skynex applications

@@ -1,1 +1,1 @@
-skynex/com
+skynex/com common directory for all skynex application
