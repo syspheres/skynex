@@ -1,1 +1,1 @@
-skynex
+skynex : Root folder of Skynex project
